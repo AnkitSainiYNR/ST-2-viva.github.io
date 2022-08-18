@@ -1,0 +1,68 @@
+.navbarScroll.navbarDark {
+  background-color: black;
+}
+
+.hero_title {
+  font-size: 4.5rem;
+}
+.hero_desc {
+  font-size: 2rem;
+}
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+#about,
+#contact {
+  margin-top: 4rem;
+  padding-top: 4rem;
+}
+#contact {
+  padding-bottom: 4rem;
+}
+
+.servicesIcon {
+  font-size: 36px;
+  text-align: center;
+  width: 100%;
+}
+.card-title {
+  text-align: center;
+}
+
+.servicesText:hover {
+  border: 1px solid #008000;
+}
+
+form {
+  margin: auto;
+  width: 60%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+.social-icons {
+  font-size: 36px;
+  cursor: pointer;
+}
+
+.fa-facebook:hover,
+.fa-instagram:hover,
+.fa-twitter:hover,
+.fa-linkedin:hover,
+.fa-twitch:hover {
+  color: #008000;
+}
+.fab {
+  color: #000000;
+}
+
+#footer {
+  background-color: #808080;
+  text-align: center;
+}
